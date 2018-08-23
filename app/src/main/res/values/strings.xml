@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMDB</string>
+    <string name="grid_img_cd">Thumbnail of movie poster.</string>
+    <string name="detail_img_cd">Thumbnail of selected movie poster.</string>
+    <string name="sort_p_btn">Sort by Popularity</string>
+    <string name="sort_r_btn">Sort by Rating</string>
+    <string name="sort_p_title">Most Popular Movies</string>
+    <string name="toast_error">Something went wrong...Please try later!</string>
+    <string name="sort_r_title">Highest Rated Movies</string>
+</resources>
